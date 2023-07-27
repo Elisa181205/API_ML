@@ -1,7 +1,7 @@
 <?php
 // Substitua pelos valores da sua aplicação
-$client_id = "2924045561082482";
-$client_secret = "2PsGupa0WoP7szZfwfMlnJL5E90B9eND";
+$client_id = ""; #Id obtido através da criação da aplicação dentro do Mercado Livre
+$client_secret = ""; #Chave obtido através da criação da aplicação dentro do Mercado Livre
 $redirect_uri = "http://localhost/HEL/index.php";
 
 // Verifica se o código de autorização foi recebido na URL de redirecionamento
