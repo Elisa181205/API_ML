@@ -1,9 +1,9 @@
 <?php
 // Substitua pelos valores da sua aplicação
-$client_id = "2924045561082482";
+$client_id = "****************************************";
 $client_secret = "2PsGupa0WoP7szZfwfMlnJL5E90B9eND";
 $redirect_uri = "http://localhost/HEL/index.php";
-$code = $_GET['TG-64c28f26f3e3010001660813-39460649']; // Captura o código de autorização da URL de redirecionamento
+$code = $_GET['**********************************']; // Captura o código de autorização da URL de redirecionamento
 
 // URL de autenticação da API para obter o token de acesso
 $auth_url = "https://api.mercadolibre.com/oauth/token";
